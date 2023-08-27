@@ -110,7 +110,7 @@ function populateDictionary(tts) {
 	dictionary["onto"] = tts ? "ke" : "onto.ogg";
 	dictionary["on"] = tts ? "di" : "on.ogg";    // is used if you turn together with your current street, i.e. street name does not change.
 	dictionary["to"] = tts ? "ke" : "to.ogg";
-	dictionary["toward"] = tts ? "melalui" : "toward.ogg";
+	dictionary["toward"] = tts ? "menuju" : "toward.ogg";
 
 	// DISTANCE UNIT SUPPORT
 	dictionary["meters"] = tts ? "meter" : "meters.ogg";
